@@ -115,6 +115,8 @@ def admin_keybord(id_pro,id_message):
     admin_keybord.add(button_1, button_2)
     return admin_keybord
 
+
+
 def edit_card_keyboard(data):
     print("edit_card_keyboard")
     keyboard = InlineKeyboardMarkup(row_width=3)

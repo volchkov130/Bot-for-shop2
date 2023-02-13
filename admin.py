@@ -1,7 +1,6 @@
 #@KatsiarynaVol
 #https://t.me/KatsiarynaVol
 
-
 import telebot
 import json
 from setting import botToken

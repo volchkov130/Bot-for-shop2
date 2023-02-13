@@ -9,3 +9,4 @@ id_chanel = "@test_canal_test_ca"
 #https://t.me/+VJylJ1N-IRA3NTMy
 
 
+
